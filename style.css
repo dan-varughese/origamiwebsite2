@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-family: Geneva;
+    font-weight: 60;
+}
+
+.p {
+    color: green;
+}
